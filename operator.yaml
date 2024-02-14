@@ -5,7 +5,7 @@
 operator:
   # This is the standard Ethereum address format (ex: 0x6a8c0D554a694899041E52a91B4EC3Ff23d8aBD5) of your operator
   # which is the ecdsa key you created or imported using EigenLayer CLI
-  address: 0x53778c6342171206fb833088a397cfa18f5c18d7
+  address: 0xe8f584e0f657688968877ada05bb4f73fdc25bcb
   # This is the standard Ethereum address format (ex: 0x6a8c0D554a694899041E52a91B4EC3Ff23d8aBD5)
   # This is the address where your operator will receive earnings. This could be same as operator address
   earnings_receiver_address: 0xA0F6035734D1163821bf527054A16eb83A4f0471
@@ -32,7 +32,7 @@ eth_rpc_url: https://eth-mainnet.g.alchemy.com/v2/Stbvv9mO1MNoc5U3DKuerwSptfzuSA
 signer_type: local_keystore
 
 # Full path to local ecdsa private key store file
-private_key_store_path: /root/.eigenlayer/operator_keys/MBGuild.ecdsa.key.json
+private_key_store_path: /root/.eigenlayer/operator_keys/MBG.ecdsa.key.json
 
 # Chain ID: 1 for mainnet, 5 for Goerli, 17000 for holesky, 31337 for local
 chain_id: 1
