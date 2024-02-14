@@ -1,7 +1,7 @@
 {
-  "name": MBG,
-  "website": https://side.xyz/manbun-guild,
-  "description": The Home of Alpha Hunters & Beta Testers,
-  "logo": https://raw.githubusercontent.com/0xilbiscione/eigenlayer-/main/logo.png,
-  "twitter": https://twitter.com/0xManBun
+  "name": "MBG",
+  "website": "https://side.xyz/manbun-guild",
+  "description": "The Home of Alpha Hunters & Beta Testers",
+  "logo": "https://raw.githubusercontent.com/0xilbiscione/eigenlayer-/main/logo.png",
+  "twitter": "https://twitter.com/0xManBun"
 }
