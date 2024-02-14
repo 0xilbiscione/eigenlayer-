@@ -25,7 +25,7 @@ operator:
 el_delegation_manager_address:
 
 # ETH RPC URL to the ethereum node you are using for on-chain operations
-eth_rpc_url: https://eth-mainnet.g.alchemy.com/v2/Stbvv9mO1MNoc5U3DKuerwSptfzuSAKX
+eth_rpc_url: https://eth.drpc.org
 
 # Signer Type to use
 # Supported values: local_keystore
