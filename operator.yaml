@@ -5,7 +5,7 @@ operator:
     staker_opt_out_window_blocks: 0
     metadata_url: "https://raw.githubusercontent.com/0xilbiscione/eigenlayer-/main/metadata.json"
 el_delegation_manager_address: ""
-eth_rpc_url: http://localhost:8545
+eth_rpc_url: https://eth-mainnet.g.alchemy.com/v2/Stbvv9mO1MNoc5U3DKuerwSptfzuSAKX
 private_key_store_path: /root/.eigenlayer/operator_keys/MBGuild.ecdsa.key.json
 signer_type: local_keystore
 chain_id: 1
